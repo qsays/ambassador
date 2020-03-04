@@ -1,7 +1,7 @@
 {
   "name": "echo-client",
   "dependencies": {
-    "google-protobuf": "^3.6.1",
+    "google-protobuf": "^3.11.3",
     "grpc-web": "^1.0.3",
     "grpc-web-client": "^0.7.0"
   },
