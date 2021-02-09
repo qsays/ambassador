@@ -26,3 +26,4 @@ mypy
 pexpect
 pytest
 pyyaml>=5.1
+cryptography>=3.3.2 # not directly required, pinned by Snyk to avoid a vulnerability
