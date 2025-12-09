@@ -26,3 +26,4 @@ mypy
 pexpect
 pytest
 pyyaml>=5.1
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
